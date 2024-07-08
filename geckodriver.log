@@ -1,0 +1,446 @@
+1720375281949	geckodriver	INFO	Listening on 127.0.0.1:60451
+1720375284984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofilevCR1WM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720375285693	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720375285915	Marionette	INFO	Listening on port 60466
+Read port: 60466
+1720375286114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720375315717	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/shared/Capture.sys.mjs :: capture.canvas :: line 137"  data: no]
+capture.canvas@chrome://remote/content/shared/Capture.sys.mjs:137:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:292:37
+
+console.error: "Marionette threw an error: [Exception... \"Failure\"  nsresult: \"0x80004005 (NS_ERROR_FAILURE)\"  location: \"JS frame :: chrome://remote/content/shared/Capture.sys.mjs :: capture.canvas :: line 137\"  data: no]\ncapture.canvas@chrome://remote/content/shared/Capture.sys.mjs:137:62\ntakeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:292:37\n"
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/shared/Capture.sys.mjs :: capture.canvas :: line 137"  data: no]
+capture.canvas@chrome://remote/content/shared/Capture.sys.mjs:137:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:292:37
+
+console.error: "Marionette threw an error: [Exception... \"Failure\"  nsresult: \"0x80004005 (NS_ERROR_FAILURE)\"  location: \"JS frame :: chrome://remote/content/shared/Capture.sys.mjs :: capture.canvas :: line 137\"  data: no]\ncapture.canvas@chrome://remote/content/shared/Capture.sys.mjs:137:62\ntakeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:292:37\n"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.youtube.com."
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 516 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 516 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:30064771073"
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 4228 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:36507222017"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 5095 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:314:10
+
+console.error: "Unable to find target with innerWindowId:36507222028"
+console.error: "Unable to find target with innerWindowId:36507222028"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 7600 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 7600 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1720378063507	geckodriver	INFO	Listening on 127.0.0.1:61391
+1720378066542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofile1gf0aO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720378066841	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720378067026	Marionette	INFO	Listening on port 61403
+Read port: 61403
+1720378067155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720378096860	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1720378132908	geckodriver	INFO	Listening on 127.0.0.1:61492
+1720378135951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileB3qXMG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720378136238	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720378136415	Marionette	INFO	Listening on port 61502
+Read port: 61502
+1720378136556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720378166254	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 504 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nVnp3Nfpf69yutVA-8bw8q7FxFJraikRi7Zus5PZtlU.js line 2 > eval line 7022 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 5466 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1720378319234	geckodriver	INFO	Listening on 127.0.0.1:61659
+1720378322268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofile5q2Wwx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720378322585	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720378322791	Marionette	INFO	Listening on port 61669
+Read port: 61669
+1720378322920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720378352610	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1720378479101	geckodriver	INFO	Listening on 127.0.0.1:62813
+1720378482144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileIBULoL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720378482453	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720378482641	Marionette	INFO	Listening on port 62825
+Read port: 62825
+1720378482772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720378512472	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1720378664059	geckodriver	INFO	Listening on 127.0.0.1:63021
+1720378667100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofile5VC5d1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720378667407	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720378667597	Marionette	INFO	Listening on port 63031
+Read port: 63031
+1720378667738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720378697431	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1720379563612	geckodriver	INFO	Listening on 127.0.0.1:64211
+1720379566647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileh9smdB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720379566921	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720379567095	Marionette	INFO	Listening on port 64221
+Read port: 64221
+1720379567217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720379596935	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 7330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 7295 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1720379721021	Marionette	INFO	Stopped listening on port 64221
+JavaScript warning: https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 14: Script terminated by timeout at:
+h@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:14:31
+kH/</<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:8398:203
+
+JavaScript error: https://www.youtube.com/results?search_query=Como+dar+o+cu, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+dar+o+cu, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/results?search_query=Como+dar+o+cu, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+dar+o+cu, line 12: TypeError: can't access dead object
+1720381406673	geckodriver	INFO	Listening on 127.0.0.1:50953
+1720381409706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofile8ZLp22"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720381412026	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720381413350	Marionette	INFO	Listening on port 50963
+Read port: 50963
+1720381414031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720381434269	Marionette	INFO	Stopped listening on port 50963
+JavaScript warning: https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1740: Script terminated by timeout at:
+e@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:1740:370
+
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+bem, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+bem, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+bem, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+bem, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+bem, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+bem, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+bem, line 12: TypeError: can't access dead object
+1720381482212	geckodriver	INFO	Listening on 127.0.0.1:51052
+1720381485234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileOA8VEB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720381485548	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720381485741	Marionette	INFO	Listening on port 51062
+Read port: 51062
+1720381485857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720381502925	Marionette	INFO	Stopped listening on port 51062
+JavaScript warning: https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1477: Script terminated by timeout at:
+F@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:1477:232
+Opb@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7888:39
+b@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7889:348
+ERa/e</c</<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3907:108
+wu@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3784:38
+Bu@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3792:40
+ERa/e</c<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3907:87
+Nu@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3818:57
+ERa/e<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3907:63
+Au/<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3790:80
+zu@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3789:44
+Au@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3790:54
+ERa@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3907:44
+fn@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3912:277
+APa@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3739:290
+IRa@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3912:115
+K@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3951:27
+Lqb/c.prototype.createElement/d<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7975:112
+dSa/c</b<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3945:69
+Nu@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3818:57
+dSa/c<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3945:42
+Au/<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3790:80
+zu@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3789:44
+Au@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3790:54
+dSa@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3945:28
+Lqb/c.prototype.createElement@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7975:90
+c@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7974:230
+g@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/custom-elements-es5-adapter.vflset/custom-elements-es5-adapter.js:11:124
+QWa</b.prototype._stampTemplate@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4587:219
+Cy</a.prototype._stampTemplate@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4697:115
+Dy</a.prototype.ready@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4734:62
+tZa</a.prototype.ready@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5045:48
+Fz</a.prototype.ready@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5145:73
+r_a/e.prototype.ready@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5207:48
+ctor/J.ready@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7912:233
+wWa</b.prototype._enableProperties@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4534:209
+Fz</a.prototype._enableProperties@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5134:98
+AWa</e.prototype.connectedCallback@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4554:119
+tZa</a.prototype.connectedCallback@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5046:103
+Fz</a.prototype.connectedCallback@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5136:157
+Nob</d.prototype.connectedCallback@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7709:152
+iG@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7943:209
+tqb/d.prototype.appendChild</<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7947:104
+attachShadow@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:95:360
+k.attachShadow@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:123:124
+Nob</d.prototype._attachDom@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7706:90
+Dy</a.prototype._readyClients@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4735:70
+Nob</d.prototype._readyClients@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7708:64
+Cy</a.prototype._flushClients@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4658:125
+Cy</a.prototype._propertiesChanged@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4664:69
+Rob</b.prototype._propertiesChanged@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7719:309
+wWa</b.prototype._flushProperties@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4535:200
+Cy</a.prototype.ready@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4662:35
+Dy</a.prototype.ready@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4734:131
+tZa</a.prototype.ready@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5045:48
+Fz</a.prototype.ready@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5145:73
+r_a/e.prototype.ready@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5207:48
+ctor/J.ready@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7912:233
+wWa</b.prototype._enableProperties@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4534:209
+Fz</a.prototype._enableProperties@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5134:98
+AWa</e.prototype.connectedCallback@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4554:119
+tZa</a.prototype.connectedCallback@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5046:103
+Fz</a.prototype.connectedCallback@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:5136:157
+Nob</d.prototype.connectedCallback@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7709:152
+iG@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7943:209
+tqb/d.prototype.appendChild</<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7947:104
+insertBefore@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:64:445
+k.insertBefore@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:121:489
+tqb/d.prototype.insertBefore</<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7945:487
+stampDomArraySplices_@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:8899:426
+rendererStamperApplyChangeRecord_@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:8895:11
+rendererStamperObserver_@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:8892:149
+gXa@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4630:119
+zy@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4612:218
+Cy</a.prototype._propertiesChanged@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4664:124
+Rob</b.prototype._propertiesChanged@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7719:309
+wWa</b.prototype._flushProperties@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4535:200
+Cy</a.prototype._invalidateProperties@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4656:69
+Cy</a.prototype.notifyPath@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4679:182
+sXa@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4637:91
+Ay@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4638:29
+Cy</a.prototype.push@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:4674:130
+fillRange_@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:16094:117
+renderChunk_@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:16098:180
+mhb/this.wrappedJob@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:7024:206
+S@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/scheduler.vflset/scheduler.js:45:19
+V@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/scheduler.vflset/scheduler.js:54:415
+g.S@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/scheduler.vflset/scheduler.js:50:84
+window.requestAnimationFrame/<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/web-animations-next-lite.min.vflset/web-animations-next-lite.min.js:96:192
+
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/results?search_query=como+dar+o+cu, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dar+o+cu, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dar+o+cu, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dar+o+cu, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dar+o+cu, line 12: TypeError: can't access dead object
+1720381546535	geckodriver	INFO	Listening on 127.0.0.1:51360
+1720381549566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileRExCLZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720381550612	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720381550831	Marionette	INFO	Listening on port 51393
+Read port: 51393
+1720381550985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720381580629	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1720381590041	Marionette	INFO	Stopped listening on port 51393
+JavaScript warning: https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 6927: Script terminated by timeout at:
+CD@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:6927:48
+CD@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:6924:167
+CD@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:6927:88
+CD@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:6927:88
+ycb/<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:6943:285
+ua@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:43:401
+uaa/this.next@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:45:169
+b@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:49:107
+
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+fandango, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotAllowedError: Could not write to `C:\Users\Murilo\AppData\Local\Temp\rust_mozprofileRExCLZ\sessionCheckpoints.json': could not move overwite with temporary file: Could not move `C:\Users\Murilo\AppData\Local\Temp\rust_mozprofileRExCLZ\sessionCheckpoints.json.tmp' to `C:\Users\Murilo\AppData\Local\Temp\rust_mozprofileRExCLZ\sessionCheckpoints.json' (NS_ERROR_FILE_ACCESS_DENIED)
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+fandango, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+fandango, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+fandango, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+fandango, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+fandango, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+fandango, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+fandango, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=como+dan%C3%A7ar+fandango, line 12: TypeError: can't access dead object
+1720381714379	geckodriver	INFO	Listening on 127.0.0.1:51629
+1720381717430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileWxjlvF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720381717741	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720381717928	Marionette	INFO	Listening on port 51641
+Read port: 51641
+1720381718056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 350: TypeError: can't access dead object
+1720381747758	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1720381784683	Marionette	INFO	Stopped listening on port 51641
+JavaScript warning: https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1760: Script terminated by timeout at:
+An/<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:1760:466
+ua@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:43:401
+uaa/this.next@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:45:169
+b@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:49:107
+
+JavaScript error: https://www.youtube.com/results?search_query=Como+fazer+anal, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+fazer+anal, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+fazer+anal, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+fazer+anal, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+fazer+anal, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+fazer+anal, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/results?search_query=Como+fazer+anal, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+fazer+anal, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+fazer+anal, line 12: TypeError: can't access dead object
+1720382968315	geckodriver	INFO	Listening on 127.0.0.1:52352
+1720382971373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileevjVbp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720382972076	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720382972478	Marionette	INFO	Listening on port 52363
+Read port: 52363
+1720382972589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 1243 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2689: Script terminated by timeout at:
+vq.prototype.transition@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:2689:33
+FO/<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:11609:114
+
+1720383001824	Marionette	INFO	Stopped listening on port 52363
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1720383079564	geckodriver	INFO	Listening on 127.0.0.1:52491
+1720383082594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofile05gtXj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720383082924	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720383083336	Marionette	INFO	Listening on port 52503
+Read port: 52503
+1720383083448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720383112940	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1720383125993	Marionette	INFO	Stopped listening on port 52503
+JavaScript warning: https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 6819: Script terminated by timeout at:
+BD@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:6819:1047
+Jgb@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:6938:51
+Mna@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:6941:28
+LmN@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:6937:32
+AdB/<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:6936:143
+ua@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:43:401
+uaa/this.next@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:45:169
+b@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:49:107
+
+JavaScript error: https://www.youtube.com/results?search_query=Como+correr+mais+rapido, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+correr+mais+rapido, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+correr+mais+rapido, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+correr+mais+rapido, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/results?search_query=Como+correr+mais+rapido, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+correr+mais+rapido, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=Como+correr+mais+rapido, line 12: TypeError: can't access dead object
+1720384975751	geckodriver	INFO	Listening on 127.0.0.1:53054
+1720384978788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileyPhOG7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720384979123	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720384979561	Marionette	INFO	Listening on port 53065
+Read port: 53065
+1720384979691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720385009141	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 4994 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+1720385577512	geckodriver	INFO	Listening on 127.0.0.1:53411
+1720385580541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofilerSdxTE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720385580878	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720385581284	Marionette	INFO	Listening on port 53423
+Read port: 53423
+1720385581407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720385610899	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1720385744635	geckodriver	INFO	Listening on 127.0.0.1:53572
+1720385747667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofiley8tgUQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720385747992	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720385748413	Marionette	INFO	Listening on port 53589
+Read port: 53589
+1720385748542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720385778015	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1720386748990	geckodriver	INFO	Listening on 127.0.0.1:54308
+1720386752053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileksl0Pf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720386752372	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720386752779	Marionette	INFO	Listening on port 54322
+Read port: 54322
+1720386752901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720386782389	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/_vW5SQ53kVQz5X274tTZrQhal5UTm8glqfaUFC-RwLQ.js line 2 > eval line 3102 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1720403214945	geckodriver	INFO	Listening on 127.0.0.1:50007
+1720403218006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileJilKLe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720403218361	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720403218765	Marionette	INFO	Listening on port 50020
+Read port: 50020
+1720403218887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: BackupService: "Failed to measure for resource: miscellaneous" (new NotFoundError("Could not stat `C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileJilKLe\\storage\\permanent\\chrome\\idb\\2918063365piupsah.sqlite-journal': file does not exist (NS_ERROR_FILE_NOT_FOUND)", (void 0)))
+JavaScript warning: https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 10: Script terminated by timeout at:
+@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:10:1
+@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:10:3
+
+1720403221138	Marionette	INFO	Stopped listening on port 50020
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1720403661404	geckodriver	INFO	Listening on 127.0.0.1:50412
+1720403664469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofilefPjtJv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720403664774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720403665175	Marionette	INFO	Listening on port 50426
+Read port: 50426
+1720403665292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720403694793	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1720403833400	geckodriver	INFO	Listening on 127.0.0.1:50657
+1720403836457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofilepxcMm9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720403836818	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720403837253	Marionette	INFO	Listening on port 50670
+Read port: 50670
+1720403837412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720403866834	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
